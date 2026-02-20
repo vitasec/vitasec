@@ -30,8 +30,8 @@
 </br>
 <div align="center">
   
-  [![THM](https://img.shields.io/badge/THM-%40vitasec-0A66C2?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
-  [![HTB](https://img.shields.io/badge/HTB-%40vitasec-6cc24a?style=for-the-badge&logo=hackthebox)](https://www.hackthebox.eu/)
+  [![THM](https://img.shields.io/badge/THM-%40vitasec-0A66C2?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Mr.Devid)
+  [![HTB](https://img.shields.io/badge/HTB-%40vitasec-6cc24a?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/2373232?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
   
 </div>
 </br>
